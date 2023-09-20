@@ -7,7 +7,7 @@
  */
 fun main() {
     println(pesoToUsd(150.0))
-	println(usdToPeso(pesoToUsd(150.0)))
+    println(usdToPeso(pesoToUsd(150.0)))
 }
 
 fun pesoToUsd(pesoValue: Double): Double{
